@@ -1,15 +1,11 @@
-<mxfile modified="2022-09-05T10:24:54.465Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dcNDigTs9Vol6n8CzJGf" version="20.2.8" type="github">
+<mxfile modified="2022-09-06T09:22:45.692Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="SeJdJ1DmBJgfjMCarf8d" version="20.2.8" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1929" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2480" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DF-Gi3U9MyWuJNIuTEQ5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qnye1yiUMpnFXgtjiZ8r-1" target="DF-Gi3U9MyWuJNIuTEQ5-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1270" y="238" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="oITZQ7DeyEHwLhvtXPfn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qnye1yiUMpnFXgtjiZ8r-1" target="oITZQ7DeyEHwLhvtXPfn-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qnye1yiUMpnFXgtjiZ8r-1" value="DWH Synapse Analytics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" parent="1" vertex="1">
           <mxGeometry x="1240" y="370" width="60" height="69" as="geometry" />
@@ -227,11 +223,17 @@
         <mxCell id="Qnye1yiUMpnFXgtjiZ8r-75" value="Azure Databricks" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="1240" y="555" width="60" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DF-Gi3U9MyWuJNIuTEQ5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DF-Gi3U9MyWuJNIuTEQ5-1" target="Qnye1yiUMpnFXgtjiZ8r-3">
+        <mxCell id="DF-Gi3U9MyWuJNIuTEQ5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DF-Gi3U9MyWuJNIuTEQ5-1" target="Qnye1yiUMpnFXgtjiZ8r-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DF-Gi3U9MyWuJNIuTEQ5-1" value="Datamarts Synapse Analytics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+        <mxCell id="DF-Gi3U9MyWuJNIuTEQ5-1" value="Datamarts Synapse Analytics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;" parent="1" vertex="1">
           <mxGeometry x="1380" y="210" width="60" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="oITZQ7DeyEHwLhvtXPfn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oITZQ7DeyEHwLhvtXPfn-1" target="DF-Gi3U9MyWuJNIuTEQ5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oITZQ7DeyEHwLhvtXPfn-1" value="Azure Databricks" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="239" width="60" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
